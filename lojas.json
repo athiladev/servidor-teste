@@ -1,0 +1,202 @@
+[
+  {
+    "loja": "LOJA 03 CE",
+    "endereco": "Rua General Sampaio 1099, Centro - Fortaleza - CE",
+    "cep": "60.020-030",
+    "telFixo": "(85) 3077 6009",
+    "celular": "CEL 9 9633 9822",
+    "cnpj": "05.346.644/0017-17",
+    "inscricaoEstadual": "06.187.555-4",
+    "shopping": "",
+    "gerente": "JEANE"
+  },
+  {
+    "loja": "LOJA 04 CE",
+    "endereco": "Rua Guilherme Rocha 408, Centro - Fortaleza - CE",
+    "cep": "60.030-140",
+    "telFixo": "(85) 3023 6434",
+    "celular": "CEL 9 9921 1391",
+    "cnpj": "05.346.644/0013-93",
+    "inscricaoEstadual": "06.187.334-9",
+    "shopping": "",
+    "gerente": "VALÉRIA"
+  },
+  {
+    "loja": "LOJA 05 CE",
+    "endereco": "Av. Des. Leite Albuquerque 831, Aldeota - Fortaleza - CE",
+    "cep": "60.150-150",
+    "telFixo": "(85) 3458 1988",
+    "celular": "CEL 9 9633 9874",
+    "cnpj": "05.346.644/0016-36",
+    "inscricaoEstadual": "06.191.238-7",
+    "shopping": "",
+    "gerente": ""
+  },
+  {
+    "loja": "LOJA 06 CE",
+    "endereco": "Rua Barão do Rio Branco 950, Centro - Fortaleza - CE",
+    "cep": "60.025-060",
+    "telFixo": "(85) 3055 4355",
+    "celular": "CEL 9 9633 7308",
+    "cnpj": "05.346.644/0001-50",
+    "inscricaoEstadual": "06.363.962-9",
+    "shopping": "",
+    "gerente": "NEUCY"
+  },
+  {
+    "loja": "LOJA 10 CE",
+    "endereco": "Av. Carlos Jereissati 100 Loja 262, Jeiressati II - Maracanaú - CE",
+    "cep": "61.901-012",
+    "telFixo": "(85) 3371 8251",
+    "celular": "CEL 9 9168 3573",
+    "cnpj": "05.346.644/0050-38",
+    "inscricaoEstadual": "06.786.822-3",
+    "shopping": "NORTH SHOPPING MARACANAÚ",
+    "gerente": "RAIONE"
+  },
+  {
+    "loja": "LOJA 11 CE",
+    "endereco": "Av. Washington Soares 85 Loja 15, Edson Queiroz - Fortaleza",
+    "cep": "60.811-341",
+    "telFixo": "(85) 3047 0087",
+    "celular": "CEL 9 9126 9658",
+    "cnpj": "06.777.851-8",
+    "inscricaoEstadual": "",
+    "shopping": "SHOPPING IGUATEMI",
+    "gerente": "TARCISLENE"
+  },
+  {
+    "loja": "LOJA 13 CE",
+    "endereco": "Rua Dona Maria Tomasia 560, Aldeota - Fortaleza - CE",
+    "cep": "60.150-170",
+    "telFixo": "(85) 3231 3067",
+    "celular": "CEL 9 9633 9326",
+    "cnpj": "05.346.644/0015-55",
+    "inscricaoEstadual": "06.367.656-7",
+    "shopping": "",
+    "gerente": "JULIA"
+  },
+  {
+    "loja": "LOJA 15 CE",
+    "endereco": "Av. Washington Soares 4335 Loja 101 Piso Terreo, Sapiranga – Fortaleza",
+    "cep": "60.833-005",
+    "telFixo": "(85) 3099 0095",
+    "celular": "CEL 9 9167 5551",
+    "cnpj": "05.346.644/0005-83",
+    "inscricaoEstadual": "06.744.578-0",
+    "shopping": "VIA SUL SHOPPING",
+    "gerente": "DARLIANE"
+  },
+  {
+    "loja": "LOJA 18 CE",
+    "endereco": "Rua Carapinima 2200 Loja 240 e 241, Benfica - Fortaleza - CE",
+    "cep": "60.015-290",
+    "telFixo": "(85) 3047 9294",
+    "celular": "CEL 9 9633 1064",
+    "cnpj": "05.346.644/0014-74",
+    "inscricaoEstadual": "06.392.290-8",
+    "shopping": "SHOPPING BENFICA",
+    "gerente": "ALBENIZA"
+  },
+  {
+    "loja": "LOJA 26 CE",
+    "endereco": "Rua Floriano Peixoto 591, Centro - Fortaleza - CE",
+    "cep": "60.025-130",
+    "telFixo": "(85) 3265 1448",
+    "celular": "CEL 9 9189 4347",
+    "cnpj": "05.346.644/0018-06",
+    "inscricaoEstadual": "06.511.527-9",
+    "shopping": "",
+    "gerente": "CLEOMAR"
+  },
+  {
+    "loja": "LOJA 31 CE",
+    "endereco": "Rua General Sampaio 891, Centro - Fortaleza - CE",
+    "cep": "60.020-030",
+    "telFixo": "(85) 3212 5433",
+    "celular": "CEL 9 9189 5771",
+    "cnpj": "05.346.644/0024-46",
+    "inscricaoEstadual": "06.528.439-9",
+    "shopping": "",
+    "gerente": "TAIANE"
+  },
+  {
+    "loja": "LOJA 37 CE",
+    "endereco": "Av. Frei Cirilo 3840 Ljs 19-23, Messejana - Fortaleza - CE",
+    "cep": "60.840-285",
+    "telFixo": "(85) 2181 6396",
+    "celular": "CEL 9 9166 8317",
+    "cnpj": "05.346.644/0034-18",
+    "inscricaoEstadual": "06.436.185-3",
+    "shopping": "GRAND SHOPPING",
+    "gerente": "MARCILENE"
+  },
+  {
+    "loja": "LOJA 38 CE",
+    "endereco": "Av. Bezerra de Menezes 2450 Loja 268A, São Gerardo - Fortaleza - CE",
+    "cep": "60.325-902",
+    "telFixo": "(85) 3311 0102",
+    "celular": "CEL 9 9189 1519",
+    "cnpj": "05.346.644/0035-07",
+    "inscricaoEstadual": "06.447.009-1",
+    "shopping": "NORTH SHOPPING",
+    "gerente": "ARYADINA"
+  },
+  {
+    "loja": "LOJA 39 CE",
+    "endereco": "Rua Germano Franck 300 Loja 117, Parangaba - Fortaleza - CE",
+    "cep": "60.740-020",
+    "telFixo": "(85) 3109 1090",
+    "celular": "CEL 9 9167 4342",
+    "cnpj": "05.346.644/0036-80",
+    "inscricaoEstadual": "06.468.304-4",
+    "shopping": "SHOPPING PARANGABA",
+    "gerente": "RAQUEL"
+  },
+  {
+    "loja": "LOJA 40 CE",
+    "endereco": "Av. Sgt. Hermínio Sampaio 3100 Loja 1043 Piso L1, Pres. Kennedy – Fortaleza – CE",
+    "cep": "60.355-512",
+    "telFixo": "(85) 3122 8024",
+    "celular": "CEL 9 9921 0495",
+    "cnpj": "05.346.644/0037-60",
+    "inscricaoEstadual": "06.537.848-2",
+    "shopping": "SHOPPING RIOMAR KENNEDY",
+    "gerente": "CRISTINA"
+  },
+  {
+    "loja": "LOJA 43 CE",
+    "endereco": "Av. Lineu Machado 419 Ljs 1046-1048, Joquei Clube – Fortaleza – CE",
+    "cep": "60.520-101",
+    "telFixo": "(85) 3055 9941",
+    "celular": "CEL 9 9109 2651",
+    "cnpj": "05.346.644/0041-47",
+    "inscricaoEstadual": "06.644.262-1",
+    "shopping": "SHOPPING JOQUEI",
+    "gerente": "YANNA"
+  },
+  {
+    "loja": "LOJA 45 CE",
+    "endereco": "Rua Des. Lauro Nogueira 1500 Loja 1042 Piso L1, Papicu – Fortaleza – CE",
+    "cep": "60.176-065",
+    "telFixo": "(85) 3265 2071",
+    "celular": "CEL 9 9167 0336",
+    "cnpj": "05.346.644/0043-09",
+    "inscricaoEstadual": "06.655.224-9",
+    "shopping": "SHOPPING RIOMAR FORTALEZA",
+    "gerente": "LUANA"
+  },
+  {
+    "loja": "LOJA 49 CE",
+    "endereco": "Rua Pe Pedro de Alencar 530, Messejana – Fortaleza – CE",
+    "cep": "60.840-280",
+    "telFixo": "(85) 3021 3288",
+    "celular": "CEL 9 9181 8456",
+    "cnpj": "05.346.644/0047-32",
+    "inscricaoEstadual": "06.757.368-1",
+    "shopping": "",
+    "gerente": "LEYLA"
+  }
+]
+
+
